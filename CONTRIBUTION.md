@@ -13,7 +13,7 @@ We are thrilled to have your input towards this experiement!
 To contribute to the experiement, you will need to follow these procedure:
 
 * Clone the repo. If unsure how to clone a repo, visit [here](https://help.github.com/articles/cloning-a-repository/)
-* Open and edit the [pakuro-cda](../pakuro/pakuro-cda.xlsx) spreadsheet and items for 
+* Open and edit the [pakuro-cda](/pakuro/pakuro-cda.xlsx) spreadsheet and items for 
   your cda. Please do not overwrite any previous record
 * Save and commit your changes
 * Send a [pull](https://help.github.com/articles/creating-a-pull-request/) request
